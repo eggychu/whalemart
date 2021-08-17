@@ -1,0 +1,15 @@
+body{
+    background: Linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(images/sunshine.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.register-box {
+    max-width: 1000px;
+    float: none;
+    margin: 250px auto;
+}
+
+.register{
+    background: #fff;
+    padding: 30px;
+}
